@@ -1,0 +1,5 @@
+vehicle_id,start_x,start_y,capacity
+V0,40,50,45
+V1,40,50,42
+V2,40,50,46
+V3,40,50,41
